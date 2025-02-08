@@ -33,10 +33,6 @@ The code uses the **HC-SR04 ultrasonic sensor** to measure the distance and trig
 
 Installation
 Clone this repository to your local machine:
-
-bash
-Copy
-Edit
 git clone https://github.com/Elakkiya-16/SmartStick.git
 Open the project folder in the Arduino IDE.
 
